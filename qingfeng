@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>时辰羽的青枫介绍面</title>
+    <script type="text/javascript">
+     function copy() {
+     var e = document.getElementById("copy");
+     e.select(001536434); 
+     document.execCommand("Copy");
+     alert("复制成功！");
+     }
+  </head>
+  <body>
+   <h1>青枫，是一位快点、番茄的小说作家（以前是快点的，在2023年年初转入番茄，大部分原因是因为快点给的钱少）</h1>
+   <h1>青枫在快点APP的喵牌为<h1>
+  <textarea id="copy">https://blog.csdn.net/yuzsmc</textarea>
+<input type="button" onclick="copy();" value="点击复制"></input>
+   <h1>此处是时辰羽的网站（网络不是法外之地，请积极遵守《中华人民共和国网络安全法》）</h1>
+    <ul><li><a href="https://fanqienovel.com/author-page/2035895419536475">“青枫主页”【快点、番茄优秀作家】 (by scy)</a></li></ul>
+  </body>
+</html>
